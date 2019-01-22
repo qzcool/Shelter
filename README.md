@@ -16,6 +16,7 @@ Knowledge and access to find your next home in China, from your preference to a 
 
 租金：
 1. 如何获得更好地租售比？直接折算为投资房产的年化收益率。Interests part.
+2. 哪种房子适合做整租或合租？客厅面积小，房间多？自如或蛋壳有无建议？
 
 升值：
 1. 如何评估房产未来的升值潜力？Capital gaining part.
